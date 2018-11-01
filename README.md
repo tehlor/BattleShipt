@@ -1,13 +1,5 @@
 # BattleShipt
-Battleship created for a command line interface.
-
-
-BBBBB     AAA   TTTTTTT TTTTTTT LL      EEEEEEE  SSSSS  HH   HH IIIII PPPPPP  TTTTTTT<br />
-BB   B   AAAAA    TTT     TTT   LL      EE      SS      HH   HH  III  PP   PP   TTT<br />
-BBBBBB  AA   AA   TTT     TTT   LL      EEEEE    SSSSS  HHHHHHH  III  PPPPPP    TTT<br />
-BB   BB AAAAAAA   TTT     TTT   LL      EE           SS HH   HH  III  PP        TTT<br />
-BBBBBB  AA   AA   TTT     TTT   LLLLLLL EEEEEEE  SSSSS  HH   HH IIIII PP        TTT<br />
-<br />
+Battleship created for a command line interface.<br />
 <br />
    Welcome to Battleship! Brought to you by Taylor Wilson, interviewing for Shipt!   <br />
 --- How to Play:<br />
